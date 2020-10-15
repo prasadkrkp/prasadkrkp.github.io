@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Rama Krishna Kandukuri"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/rama.jpg"
   bio              : "PhD student at Max Planck Institute for Intelligent Systems"
   location         : "Tübingen"
   email            : "rama.kandukuri@tuebingen.mpg.de"
