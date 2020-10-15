@@ -98,6 +98,7 @@ author:
   bio              : "PhD student at Max Planck Institute for Intelligent Systems"
   location         : "Tübingen"
   email            : "rama.kandukuri@tuebingen.mpg.de"
+  github           : "https://github.com/prasadkrkp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -113,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/prasadkrkp"
+      # url: "https://github.com/prasadkrkp"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
