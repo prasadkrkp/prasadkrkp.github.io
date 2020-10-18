@@ -8,7 +8,6 @@ I am a doctoral student working on combining Robotics and Machine Learning at th
 </small>
 
 <br/>
-<br/>
 <small>
 Previously, I had completed my masters in Mechatronics at the University of Siegen where I have worked with [Prof. Michael Möller](https://sites.google.com/site/michaelmoellermath/publications) in topics like learning based object tracking and defences against adversarial attacks on deep neural networks. I had also conducted research in model free Reinforcement Learning applied to systems with real world constraints during my student project. I had completed my bachelors in Mechanical Engineering at the National Institute of Technology Rourkela where I have written thesis on **Crash Analysis of a Space Frame Chassis**. During my bachelors I have interned with Tata Motors in their Jamshedpur plant where I worked on **Identifying and Optimizing Process Parameters Effecting Engine's Output Torque**.
 </small>
