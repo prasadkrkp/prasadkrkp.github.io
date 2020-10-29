@@ -1,7 +1,8 @@
 ---
-title: About
 permalink: /about/
 ---
+
+<b><large>Short CV</large></b>
 
 <small>
 I am a doctoral student working on combining Robotics and Machine Learning at the [Embodied Vision](https://ev.is.tuebingen.mpg.de/) group supervised by [Jörg Stückler](https://ev.is.mpg.de/person/jstueckler) at the [Max Planck Institute for Intelligent Systems](https://is.tuebingen.mpg.de/), Tübingen, Germany. Before that, I have written my master's thesis titled **Learning to Identify Physical Parameters from Video Using Differentiable Physics** while working with the same group, for which I won an honorable mention award at GCPR 2020.
