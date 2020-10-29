@@ -2,9 +2,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
-  - title: "Robotics"
-    url: /robotics/
+  - title: "AI - Robotics"
+    url: /ai-robotics/
+  - title: "Thoughts"
+    url: /thoughts/
   - title: "Publications"
     url: /publications/
