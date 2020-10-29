@@ -1,6 +1,10 @@
 ---
 permalink: /about/
----
+--- 
+
+# Personal
+
+I play badminton
 
 # Short CV
 
