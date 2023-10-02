@@ -1,0 +1,23 @@
+.page__content p, 
+.page__content li {
+   font-size: 85% !important; 
+}
+
+.bibliography {
+   font-size: 90%;
+}
+
+.project-block {
+   display: flex;
+   align-items: center; /* vertically center the content */
+   margin-bottom: 20px; /* spacing between blocks */
+ }
+ 
+ .project-image {
+   width: 150px; /* or whatever size you prefer */
+   margin-right: 20px; /* spacing between image and text */
+ }
+ 
+ .project-info {
+   flex-grow: 1; /* makes sure the text block takes up the remaining width */
+ }

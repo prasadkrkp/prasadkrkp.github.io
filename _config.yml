@@ -16,17 +16,17 @@ minimal_mistakes_skin    : contrast # "default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Rama Krishna Kandukuri"
 title_separator          : ":"
 subtitle                 : "Projects, Code, Research and Thoughts."
 name                     : "Rama Krishna Kandukuri"
 description              : "Website for my projects, research, publications and thoughts."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "prasadkrkp/prasadkrkp.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Personal Website" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -203,6 +203,17 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Refernences and citing
+scholar:
+  style: apa
+  bibtex_filters: 
+    - "latex"
+
+# Project collections
+collections:
+  projects:
+    output: true
+
 
 # Sass/SCSS
 sass:
@@ -214,7 +225,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -224,6 +235,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -232,6 +244,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-scholar
 
 
 # Archives

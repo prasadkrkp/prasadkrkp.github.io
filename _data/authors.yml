@@ -1,0 +1,8 @@
+Rama Krishna Kandukuri:
+  name: "Rama Krishna Kandukuri"
+  bio:  "PhD researcher in machine learning and robotics."
+  avatar: "/assets/images/og_image.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:prasadkrkp@gmail.com"
