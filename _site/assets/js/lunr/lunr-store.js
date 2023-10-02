@@ -1,8 +1,8 @@
 var store = [{
-        "title": "Project 1",
+        "title": "Physics-Based Rigid Body Object Tracking and Friction Filtering From RGB-D Videos",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/home/projects/project1/",
+        "url": "/home/projects/ekfphys/",
         "teaser": null
       },{
         "title": "Project 2",
