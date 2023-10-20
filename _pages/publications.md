@@ -8,9 +8,9 @@ layout: single
 # toc_sticky: true
 ---
 
-## 2023
+## 2024
 
-{% bibliography --file papers -q @*[year=2023] %}
+{% bibliography --file papers -q @*[year=2024] %}
 
 ## 2021
 

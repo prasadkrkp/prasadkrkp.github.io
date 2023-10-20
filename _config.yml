@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Rama Krishna Kandukuri"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "Doctoral researcher working at the intersection of Machine Learning and Vision-based robotics. I work on differentiable physics, object tracking and robotics."
+  bio              : "Researcher working at the intersection of Machine Learning and Vision-based robotics. I work on differentiable physics, object tracking and robotics."
   location         : Tübingen, Germany
   email            : rama.kandukuri@tuebingen.mpg.de
   links:
