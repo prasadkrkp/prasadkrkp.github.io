@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/home/projects/ekfphys/</loc>
-<lastmod>2023-10-20T14:33:58+02:00</lastmod>
+<loc>/home/projects/ekfphys/</loc>
+<lastmod>2023-10-20T15:11:59+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/home/projects/videodiffphys/</loc>
-<lastmod>2023-10-20T14:33:58+02:00</lastmod>
+<loc>/home/projects/videodiffphys/</loc>
+<lastmod>2023-10-20T15:11:59+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/home/about/</loc>
+<loc>/home/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/home/</loc>
+<loc>/home/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/home/projects/</loc>
+<loc>/home/projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/home/publications/</loc>
+<loc>/home/publications/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/home/assets/docs/resume_rama_short.pdf</loc>
+<loc>/home/assets/docs/resume_rama_short.pdf</loc>
 <lastmod>2023-10-02T14:43:03+02:00</lastmod>
 </url>
 </urlset>
