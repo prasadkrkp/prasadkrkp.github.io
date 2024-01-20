@@ -1,7 +1,7 @@
 ---
 title: Physics-Based Rigid Body Object Tracking and Friction Filtering From RGB-D Videos
-description: A brief description of Project 1.
-image: ../assets/images/og_image.png
+description: Tracking rigid body object in 3D with physical parameters using RGB-D videos. 
+image: ../assets/images/projects/ekfphys/title.png
 permalink: /projects/ekfphys
 layout: single
 ---

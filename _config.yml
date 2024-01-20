@@ -150,6 +150,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -208,6 +209,7 @@ scholar:
   style: apa
   bibtex_filters: 
     - "latex"
+  source: ./_bibliography
 
 # Project collections
 collections:
@@ -292,7 +294,7 @@ defaults:
       type: posts
     values:
       show_date: true
-      date_fromat: "%Y-%m-%d"
+      date_format: "%Y-%m-%d"
       layout: single
       author_profile: true
       read_time: true
