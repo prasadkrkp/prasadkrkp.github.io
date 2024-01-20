@@ -6,8 +6,6 @@ layout: single
 
 Currently working at <a href="https://polybot.eu">Polybot</a> as a Robot Software Engineer. 
 
-I worked in neural rendering and generative modeling.
-
 Doctoral researcher (discontinued) at Embodied Vision group supervised by [Prof. Dr. Jörg Stückler](https://is.mpg.de/~jstueckler) at the [Max Planck Institute for Intelligent Systems Tübingen](https://is.mpg.de/), working at the intersection of Machine Learning and Vision-based robotics. Specifically vision-based object manipulation employing differentiable physics.
 I also work on using differentiable rendering for unsupervised learning of scene’s physics, 6D rigid body pose estimation from images, methods for
 planning and control through contacts and frictional constraints with learned physics, and vision-based tactile sensing.
