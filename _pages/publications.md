@@ -1,21 +1,15 @@
 ---
-title: Publications
+layout: page
 permalink: /publications/
-classes:
-  - dark-theme
-layout: single
-# toc: true
-# toc_sticky: true
+title: Publications
+description: 
+nav: true
+nav_order: 2
 ---
 
-## 2024 {#paper-2024}
+<!-- _pages/publications.md -->
+<div class="publications">
 
-{% bibliography --file papers -q @*[year=2024] %}
+{% bibliography%}
 
-## 2021 {#paper-2020}
-
-{% bibliography --file papers -q @*[year=2021] %}
-
-## 2020 {#paper-2020}
-
-{% bibliography --file papers -q @*[year=2020] %}
+</div>

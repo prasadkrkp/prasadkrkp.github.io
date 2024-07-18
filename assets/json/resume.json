@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Rama Krishna Kandukuri",
+    "label": "Robot Software Engineer",
+    "image": "bio-photo-small.jpeg",
+    "email": "prasadkrkp@gmail.com",
+    "phone": "+49 17645693794",
+    "url": "https://theroboticsoul.com/about",
+    "summary": "Researcher in computer vision, robotics and machine learning.",
+    "location": {},
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Polybot",
+      "position": "Robot Software Engineer",
+      "url": "https://polybot.eu",
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-30",
+      "summary": "Training and deploying diffusion-based generative policies and real-time, distributed multi-object tracking algorithms for farming tasks, and benchmarks on the Spot mini robot.",
+      "highlights": [
+        "Generative AI",
+        "Tracking"
+      ]
+    },
+    {
+      "name": "Embodied Vision, Max Planck Institute for Intelligent Systems",
+      "position": "Researcher",
+      "url": "https://ev.is.mpg.de/",
+      "startDate": "2020-06-02",
+      "endDate": "2023-12-10",
+      "summary": "Developed and published novel computer vision methods for 3D rigid body tracking from RGB-D video data, incorporating physically plausible modeling of rigid body dynamics with an accompanying video dataset with motion capture ground truth and physics annotations.\n Research on deep learning techniques for 6D pose estimation of rigid objects from RGB images, learning-based planning and control through contact/frictional constraints using learned physics models and differentiable rendering for unsupervised learning of scene physics from images.",
+      "highlights": [
+        "Generative AI",
+        "Tracking"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Siegen",
+      "location": "Siegen, Germany",
+      "url": "https://www.uni-siegen.de/start/",
+      "area": "Mechatronics Engineering",
+      "studyType": "Masters",
+      "startDate": "2017-10-01",
+      "endDate": "2020-05-20",
+      "courses": [
+        "Robotics", "Control", "Optimization", "Computer Vision", "Machine Learning"
+      ]
+    }, 
+    {
+      "institution": "National Institute of Technology",
+      "location": "Rourkela, India",
+      "url": "https://www.uni-siegen.de/start/",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2012-07-01",
+      "endDate": "2016-04-30",
+      "courses": [
+        "Kinematics", "Dynamics", "Mechanical Design", "Thermodynamics", "Mechatronics", "Optimization"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Physics-Based Rigid Body Object Tracking and Friction Filtering From RGB-D Videos",
+      "publisher": "3DV, 2024",
+      "releaseDate": "2024-03-20",
+      "url": "https://arxiv.org/abs/2309.15703"
+    },
+    {
+      "name": "Physical Representation Learning and Parameter Identification from Video Using Differentiable Physics",
+      "publisher": "IJCV, 2021",
+      "releaseDate": "2021-07-01",
+      "url": "https://link.springer.com/article/10.1007/s11263-021-01493-5"
+    },
+    {
+      "name": "Learning to Identify Physical Parameters from Video Using Differentiable Physics",
+      "publisher": "DAGM-GCPR, 2020",
+      "releaseDate": "2020-10-01",
+      "url": "https://arxiv.org/abs/2009.08292"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C++", "Python", "Matlab", "PyTorch", "CUDA", "ROS/ROS2"
+      ]
+    },
+    {
+      "name": "Research",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Computer Vision", "Robotics", "Sensor Fusion", "Robotic Manipulation", "Machine Learning", "Tracking", "Optimization", "Diffusion Models"
+      ]
+    }
+    
+  ],
+  "languages": [
+    {
+      "language": "Telugu",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "A1",
+      "icon": ""
+    }
+  ]
+}

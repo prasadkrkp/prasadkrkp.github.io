@@ -1,0 +1,15 @@
+"strecke":
+  - firstname: ["Michael", "M.", "M. S.", "Michael Strecke"]
+    url: https://is.mpg.de/person/mstrecke
+
+"achterhold":
+  - firstname: ["Jan", "J.", "J. A.", "Jan Achterhold"]
+    url: https://is.mpg.de/~jachterhold
+
+"stueckler":
+  - firstname: ["Joerg", "J.", "J. S.", "Joerg Stueckler"]
+    url: https://is.mpg.de/~jstueckler
+
+"moeller":
+- firstname: ["Michael", "M.", "M. M.", "Michael Moeller"]
+  url: https://sites.google.com/site/michaelmoellermath

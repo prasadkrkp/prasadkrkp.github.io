@@ -1,0 +1,10 @@
+github_users:
+  - prasadkrkp
+
+repo_description_lines_max: 2
+
+github_repos:
+  - name: "prasadkrkp.github.io"
+    description: "My personal blog"
+    stars: 0
+    forks: 0
