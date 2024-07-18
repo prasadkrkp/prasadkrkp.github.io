@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined as a PhD student at the Embodied Vision Group.
+Joined as a Researcher at the Embodied Vision Group.
