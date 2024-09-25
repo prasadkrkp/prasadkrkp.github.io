@@ -12,6 +12,20 @@
   },
   "work": [
     {
+      "name": "Magazino",
+      "position": "Robot Software Engineer - Simulation",
+      "url": "https://magazino.eu",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Development and maintenance of simulation platforms for robots in Unity and Gazebo with ROS integration.",
+      "highlights": [
+        "Simulation",
+        "Unity",
+        "Gazebo",
+        "Docker"
+      ]
+    },
+    {
       "name": "Polybot",
       "position": "Robot Software Engineer",
       "url": "https://polybot.eu",
@@ -48,7 +62,7 @@
       "courses": [
         "Robotics", "Control", "Optimization", "Computer Vision", "Machine Learning"
       ]
-    }, 
+    },
     {
       "institution": "National Institute of Technology",
       "location": "Rourkela, India",

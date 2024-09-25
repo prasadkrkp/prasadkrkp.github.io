@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Previously, Robot Software Engineer at <a href="https://polybot.eu">Polybot</a>, headed by [Dr. Wieland Brendel](https://is.mpg.de/~wbrendel). I have worked on distributed multi object tracking pipeline and diffusion-based policies deployed on the Spot robot. 
+Currently working as a Robot Software Engineer for Simulation at <a href="https://magazino.eu">Magazino</a>. I work on development and maintenance of custom simulation platforms for robots in Unity and Gazebo. Previously, Robot Software Engineer at <a href="https://polybot.eu">Polybot</a>, headed by [Dr. Wieland Brendel](https://is.mpg.de/~wbrendel). I have worked on distributed multi object tracking pipeline and diffusion-based policies deployed on the Spot robot. 
 
 Before that, I was a Researcher at Embodied Vision group supervised by [Prof. Dr. Jörg Stückler](https://is.mpg.de/~jstueckler) at the [Max Planck Institute for Intelligent Systems Tübingen](https://is.mpg.de/), working at the intersection of Machine Learning and Vision-based robotics. Specifically vision-based object manipulation employing differentiable physics.
 I also work on using differentiable rendering for unsupervised learning of scene’s physics, 6D rigid body pose estimation from images, methods for planning and control through contacts and frictional constraints with learned physics, and vision-based tactile sensing.
